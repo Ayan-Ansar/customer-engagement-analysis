@@ -18,26 +18,10 @@ In this project, we aimed to harness the power of data for making informed decis
 
 5. **Insights Generation:** The visualizations generated valuable insights, including revenue trends, customer behavior analysis, and geographical patterns. These insights empowered stakeholders to make data-driven decisions.
 
-## Usage
-
-1. **Data Extraction:** Review the SQL queries in the `SQL Queries` directory and modify them as needed to extract data from your own database using MySQL Workbench or any other SQL client.
-
-2. **Data Export:** After executing the SQL queries and obtaining the resulting tables in MySQL Workbench, you can export these tables as CSV files from within the application. Make sure to customize the export settings to save the data in CSV format.
-
-3. **Tableau Dashboard:** Import the CSV files into Tableau to create your dashboard. The `tableau_dashboard.twbx` file contains the pre-built dashboard, which you can customize based on your requirements.
-
-## Prerequisites
-
-- SQL Database with the necessary data
-- MySQL Workbench or a similar SQL client for data extraction
-- Tableau Desktop for modifying the dashboard
+[Tableau Public Link](https://public.tableau.com/app/profile/ayan.ansar/viz/CustomerEngagementAnalysis_16989458085720/Overview)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or need further assistance, feel free to reach out to [Your Name](mailto:youremail@example.com).
 
 Happy data analysis and insights generation!
