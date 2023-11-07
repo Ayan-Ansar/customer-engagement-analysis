@@ -20,7 +20,7 @@ In this project, we aimed to harness the power of data for making informed decis
 
 ## Usage
 
-1. **Data Extraction:** Review the SQL queries in the `data_extraction.sql` file and modify them as needed to extract data from your own database using MySQL Workbench or any other SQL client.
+1. **Data Extraction:** Review the SQL queries in the `SQL Queries` directory and modify them as needed to extract data from your own database using MySQL Workbench or any other SQL client.
 
 2. **Data Export:** After executing the SQL queries and obtaining the resulting tables in MySQL Workbench, you can export these tables as CSV files from within the application. Make sure to customize the export settings to save the data in CSV format.
 
